@@ -1,2 +1,3 @@
-# mirai
+# shelf
+Open library platform
 
