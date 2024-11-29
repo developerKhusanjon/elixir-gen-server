@@ -1,3 +1,3 @@
 # shelf
-Open library platform provides book summary, review, related articles, references and manuals
+Open summary library that provides book summaries, reviews, related articles, references and manuals
 
